@@ -1,0 +1,6 @@
+# 忽略的文件夹
+env_airport/
+build/
+
+# 忽略的文件扩展名
+*.spec
